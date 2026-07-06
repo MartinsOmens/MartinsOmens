@@ -29,17 +29,28 @@ I’m passionate about building digital experiences that are both visually appea
 
 ---
 
+
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://x.com/ChrisMarti94875">🐦 X (Twitter)</a> •
-<a href="https://www.instagram.com/martinsomens">📸 Instagram</a> •
-<a href="https://www.tiktok.com/@martinsomens">🎵 TikTok</a> •
-<a href="https://martinschibuezeportfolio.netlify.app">🌍 Portfolio</a>
+<a href="https://x.com/ChrisMarti94875" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/martinsomens" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@martinsomens" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://martinschibuezeportfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
